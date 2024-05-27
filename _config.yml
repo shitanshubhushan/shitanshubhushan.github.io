@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Shitanshu Bhushan"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Graduate student at University of Michigan, Ann Arbor | CSE BIT Mesra"
+  bio    : "Graduate student at University of Michigan, Ann Arbor CSE BIT Mesra"
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
