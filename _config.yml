@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Shitanshu Bhushan"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assests/images/bio-photo.jpg"
   bio    : "Graduate student at University of Michigan, Ann Arbor"
   links:
     #- label: "Website"
