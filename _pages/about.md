@@ -4,8 +4,8 @@ title: "About"
 ---
 
 ## Education
-- M.S., Data Science | University of Michigan Ann Arbor (August 2023 - Present)	 			        		
-- B.E., Computer Science and Engineering | Birla Institute of Technology Mesra (July 2017 – June 2021)
+- M.S., Data Science at University of Michigan Ann Arbor (August 2023 - Present)	 			        		
+- B.E., Computer Science and Engineering at Birla Institute of Technology Mesra (July 2017 – June 2021)
 
 
 ## Work Experience
