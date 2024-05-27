@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Shitanshu Bhushan"
-  avatar : "/assets/images/IMG_4219.jpg"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Graduate student at University of Michigan, Ann Arbor"
   links:
     #- label: "Website"
@@ -70,7 +70,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/shitanshubhushan"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
