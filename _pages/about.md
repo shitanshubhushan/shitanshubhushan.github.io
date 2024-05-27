@@ -3,39 +3,17 @@ permalink: /about/
 title: "About"
 ---
 
-# Shitanshu Bhushan
-
-```
-(734)-489-3421|sbhushan@umich.edu|linkedin.com/in/shitanshu|
-```
 ## Education
+- M.S., Data Science | University of Michigan Ann Arbor (August 2023 - Present)	 			        		
+- B.E., Computer Science and Engineering | Birla Institute of Technology Mesra (July 2017 – June 2021)
 
-## University of Michigan, Ann Arbor GPA - 4.
 
-```
-Master of Science in Data Science August 2023 – Present
-```
-## Birla Institute of Technology Mesra 83.0%
-
-```
-Bachelor of Engineering in Computer Science and Engineering July 2017 – June 2021
-```
-## Experience
-
-## Data Engineering Analyst July 2021 – August 2023
-
-```
-Accenture
-```
-- Leveraged Azure Databricks and Azure Data Factory to develop business critical reporting solutions for a major
-    FMCG’s Southeast Asia division.
-- Optimized Scala based workloads. Improved performance by as much as 97% by using better data structures and
-    incremental data handling.
-- Spearheaded the development and implementation of data solution for a major business group of the FMCG client
-    spanning five South Asian countries, resulting in shortened monthly operation process and greater visibility to
-    required data. Led a team of 3 people and the data solution is being used by the region head.
-- Collaborated closely with client to gather requirements and conducted feasibility analyses, showcasing strong
-    interpersonal and communication skills in driving successful cross-country data integration project.
+## Work Experience
+**Data Engineering Analyst @ Accenture (July 2021 – August 2023)**
+- Leveraged Azure Databricks and Azure Data Factory to develop business critical reporting solutions for a major FMCG’s Southeast Asia division.
+- Optimized Scala based workloads. Improved performance by as much as 97% by using better data structures and incremental data handling.
+- Spearheaded the development and implementation of data solution for a major business group of the FMCG client spanning five South Asian countries, resulting in shortened monthly operation process and greater visibility to required data. Led a team of 3 people and the data solution is being used by the region head.
+- Collaborated closely with client to gather requirements and conducted feasibility analyses, showcasing strong interpersonal and communication skills in driving successful cross-country data integration project.
 
 ## Skills
 
@@ -47,11 +25,8 @@ Frameworks: Spark, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib
 Platforms: AWS, Azure, Databricks
 ```
 ## Certifications
-
-## Databricks Certified Associate Developer for Apache Spark 3.0 Apr. 2023
-
-- Demonstrated an understanding of the basics of the Apache Spark architecture and the ability to apply the Spark
-    DataFrame API to complete individual data manipulation tasks.
+**Databricks Certified Associate Developer for Apache Spark 3.0 (Apr. 2023)**
+- Demonstrated an understanding of the basics of the Apache Spark architecture and the ability to apply the Spark DataFrame API to complete individual data manipulation tasks.
 
 ## Projects
 
