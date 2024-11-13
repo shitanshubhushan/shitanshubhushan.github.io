@@ -1,6 +1,6 @@
 main:
   - title: "About"
-    url: /about/
+    url: "https://drive.google.com/file/d/1iT8p_wqZzNBl4LEaSufy6NND0i8dzcNy/preview" 
   - title: "Posts"
     url: /posts/
   - title: "Categories"
